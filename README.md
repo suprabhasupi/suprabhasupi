@@ -6,6 +6,7 @@
 
 <table style="border: none; margin: 2rem 0;">
 <tr>
+     <td style="border: none; padding: 0; margin: 0;"> <a href='https://gum.co/css-pseudo-class-elements/'><img src='https://i.imgur.com/9ii8UNw.png' width="25" style="margin: 0 0.7rem"/></a> </td>
     <td style="border: none; padding: 0; margin: 0;"> <a href='http://blog.suprabha.me/'><img src='https://i.imgur.com/ctmVtE9.png' width="25" style="margin: 0 0.7rem"/></a> </td>
     <td style="border: none; padding: 0; margin: 0;"><a href='https://twitter.com/suprabhasupi'><img src='https://i.imgur.com/CW3MuaF.png' width="25" style="margin: 0 0.7rem" /></a> </td>
     <td style="border: none; padding: 0; margin: 0;"> <a href='https://www.instagram.com/suprabhasupi/'><img src='https://i.imgur.com/1z6ijrB.png' width="25" style="margin: 0 0.7rem"/></a> </td>

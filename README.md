@@ -1,8 +1,13 @@
 ## Hello Guys 👋
 
+<p>Nice to e-meet you here 😉</p>
+<h3>I'm a <b>Frontend Engineer</b> <a href='https://github.com/gojek' target='_blank'>@Gojek</a> 🚀</h3>
+
 <img src='https://i.imgur.com/hl7Pot0.png' width="100%" />
 
-<h3><b>Frontend Engineer</b> <a href='https://github.com/gojek' target='_blank'>@Gojek</a> 🚀</h3>
+<p align="left"> <a href="https://twitter.com/suprabhasupi" target="blank"><img src="https://img.shields.io/twitter/follow/suprabhasupi?logo=twitter&style=for-the-badge" alt="suprabhasupi" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
 
 <table style="border: none; margin: 2rem 0;">
 <tr>
@@ -21,6 +26,8 @@
 
 <h4 style="color: #314d92; margin-bottom: 2rem;"> 🔥 New JS, CSS, HTML articles every week 🔥</h4>
 
+Follow me for my learning path in Web 3.0, Gaming development 👾
+
 #### My Skills ✍️
 
 <table style="border: none;">
@@ -38,7 +45,8 @@
 </table>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suprabhasupi&show_icons=true&locale=en&layout=compact" alt="suprabhasupi" /></p>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=suprabhasupi&show_icons=true&locale=en" alt="suprabhasupi" /></p>
 
 

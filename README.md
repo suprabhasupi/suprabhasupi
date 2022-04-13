@@ -26,7 +26,7 @@
 
 <h4 style="color: #314d92; margin-bottom: 2rem;"> 🔥 New JS, CSS, HTML articles every week 🔥</h4>
 
-Follow me for my learning path in Web 3.0, Gaming development 👾
+Follow me for my learning path in Web development, Web 3.0, Game development 👾
 
 #### My Skills ✍️
 

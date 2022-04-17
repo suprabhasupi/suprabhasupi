@@ -20,6 +20,7 @@
     <td style="border: none; padding: 0; margin: 0;"> <a href='https://medium.com/@suprabhasupi'><img src='https://i.imgur.com/Meib8gB.png' width="25" style="margin: 0 0.7rem"/></a> </td>
     <td style="border: none; padding: 0; margin: 0;"> <a href='https://codepen.io/suprabhasupi'><img src='https://i.imgur.com/sQO8kgD.png' width="25" style="margin: 0 0.7rem"/></a> </td>
     <td style="border: none; padding: 0; margin: 0;"> <a href='https://stackoverflow.com/users/8284147/suprabha'><img src='https://i.imgur.com/qo3zsfw.png' width="25" style="margin: 0 0.7rem"/></a> </td>
+    <td style="border: none; padding: 0;"> <a href='https://www.showwcase.com/suprabhasupi'><img src="https://i.imgur.com/0EkETeK.png" width='35' style='margin-right: 1rem;' /></a></td>
 </tr>
 </table>
 
@@ -40,7 +41,7 @@ Follow me for my learning path in Web development, Web 3.0, Game development ðŸ‘
     <td style="border: none; padding: 0;"> <img src="https://i.imgur.com/jJPYMyy.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/> </td>
     <td style="border: none; padding: 0;"> <img src="https://i.imgur.com/pdKuupp.png" width='35' style='margin-right: 1rem;' /> </td>
     <td style="border: none; padding: 0;"> <img src="https://i.imgur.com/3oKH0wL.png" width='35' style='margin-right: 1rem;' /> </td>
-    <td style="border: none; padding: 0;"> <img src="https://i.imgur.com/rjcZRqw.png" width='35' style='margin-right: 1rem;' /> </td>
+    <td style="border: none; padding: 0;"> <img src="https://i.imgur.com/YjZWtPL.png" width='45' style='margin-right: 1rem;' /> </td>
 </tr>
 </table>
 

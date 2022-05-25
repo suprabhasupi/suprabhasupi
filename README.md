@@ -1,11 +1,17 @@
-## Hello Guys 👋
+## Hello Everyone 👋
 
 <p>Nice to e-meet you here 😉</p>
-<h3>I'm a <b>Senior Frontend Engineer</b> <a href='https://github.com/gojek' target='_blank'>@Gojek</a> 🚀</h3>
+<h3>I'm a <b>Senior Frontend Engineer</b> <a href='https://github.com/gojek' target='_blank'>@Gojek</a> and public speaker 🚀</h3>
 
 <img src='https://i.imgur.com/hl7Pot0.png' width="100%" />
 
 <p align="left"> <a href="https://twitter.com/suprabhasupi" target="blank"><img src="https://img.shields.io/twitter/follow/suprabhasupi?logo=twitter&style=for-the-badge" alt="suprabhasupi" /></a> </p>
+
+<h4 style="color: #314d92; margin-bottom: 2rem;"> 🔥 New JS, CSS, HTML articles every week 🔥</h4>
+
+Follow me for my learning path in Web development, Web 3.0, Game development 👾
+
+I've presented 5+ talks in conferences: JSConf India, CityJS Conference, Femtechconf, and Recro.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -24,10 +30,6 @@
 </tr>
 </table>
 
-
-<h4 style="color: #314d92; margin-bottom: 2rem;"> 🔥 New JS, CSS, HTML articles every week 🔥</h4>
-
-Follow me for my learning path in Web development, Web 3.0, Game development 👾
 
 #### My Skills ✍️
 

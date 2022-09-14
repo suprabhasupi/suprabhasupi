@@ -1,7 +1,7 @@
 ## Hello Everyone 👋
 
 <p>Nice to e-meet you here 😉</p>
-<h3>I'm a <b>Senior Frontend Engineer</b> <a href='https://github.com/gojek' target='_blank'>@Gojek</a> and public speaker 🚀</h3>
+<h3>I'm a <b>Software Engineer</b> <a href='https://github.com/uber' target='_blank'>@Uber</a> and public speaker 🚀</h3>
 
 <img src='https://i.imgur.com/hl7Pot0.png' width="100%" />
 
